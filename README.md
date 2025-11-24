@@ -26,18 +26,27 @@ V1/V2 = e [ -a (L1+L2 ) ]
 **Tabulation:**
 
 ### Propagation Loss
+Vin=10v
 
 | Fiber Length | Input Amplitude (V) | Output Amplitude (V) |
 |--------------|---------------------|------------------------|
-|              |                     |                        |
+|     0.5m     |         10v         |           4v           |
+|     1m       |         10v         |          3.6           |
 
 ### Bending Loss
+Vin=10v
 
 | Bending Diameter | Input Amplitude (V) | Output Amplitude (V) |
 |------------------|---------------------|------------------------|
-|                  |                     |                        |
+|       3m         |          10v        |            3.2v        |
+|       4m         |          10v        |            3.6v        |
+
+
+![WhatsApp Image 2025-11-24 at 07 57 12_72f9154b](https://github.com/user-attachments/assets/0efca827-05d4-4e7a-aada-80ddf5801930)
 
 **Result:**  
-Attenuation and bending loss characteristics verified.
 
+![WhatsApp Image 2025-11-24 at 07 57 12_6a984ef3](https://github.com/user-attachments/assets/bf340a98-724e-40be-96d3-e560ff02938b)
+
+Attenuation and bending loss characteristics verified.
 ---
